@@ -1,0 +1,7 @@
+{
+  "API_SERVER_PORT": 4000,
+  "DEFAULT_CITY": "Helsinki",
+  "DAY_MILLIS": 86400000,
+  "CARD_DEFAULT_COLOR": "is-light",
+  "CARD_COLOR": "is-light-green"
+}

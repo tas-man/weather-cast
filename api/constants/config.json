@@ -1,0 +1,8 @@
+{
+  "API_SERVER_PORT": 4000,
+  "MONGODB_URI": "mongodb://localhost:27017/weather-cast-db",
+  "OWM_API_KEY": "OWM_API_KEY",
+  "OWM_API_MODE": "json",
+  "OWM_API_UNIT": "metric",
+  "HOUR_MILLIS": 3600000
+}
